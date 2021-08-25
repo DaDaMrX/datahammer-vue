@@ -1,5 +1,7 @@
 # Vue Practice Project - DataHammer Website
 
+![](src/assets/img/banner/people.jpeg)
+
 ## Project setup
 ```
 npm install
