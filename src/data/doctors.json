@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Yi-Kun Tang",
+    "photo": "tangyikun.jpg",
+    "email": "tangyk@bit.edu.cn",
+    "github": "",
+    "homepage": "",
+    "description": "Hello, I am Yi-Kun Tang and I am now a Ph.D candidate in Beijing Institute of Technology."
+  },
+  {
+    "name": "Yuming Shang",
+    "photo": "shangyuming.jpeg",
+    "email": "ymshang@bit.edu.cn",
+    "github": "",
+    "homepage": "",
+    "description": "Hello, I am Yuming Shang and I am now a Ph.D candidate in Beijing Institute of Technology."
+  },
+  {
+    "name": "Zewen Chi",
+    "photo": "chizewen.jpeg",
+    "email": "chizewen@outlook.com",
+    "github": "http://github.com/czwin32768",
+    "homepage": "",
+    "description": "Research Interest: cross-lingual NLP, pretraining for NLP; Hobby: swimming, cycling, DOTA, PUBG, PS4 games(Metal Gear Solid V), korean drama, kpop girl groups, korean variety show."
+  },
+  {
+    "name": "Rong-Cheng Tu",
+    "photo": "turongcheng.jpg",
+    "email": "tu_rc@bit.edu.cn",
+    "github": "",
+    "homepage": "",
+    "description": "Hi, I'm Rong-Cheng Tu. I'm currently working toward the master's degree in the Department of Computer Science and Technology, Beijing Institute of Technology. My research interests are in deep learning and learning to hash."
+  },
+  {
+    "name": "Tian Lan",
+    "photo": "lantian.jpg",
+    "email": "lantiangmftby@gmail.com",
+    "github": "http://github.com/gmftbyGMFTBY",
+    "homepage": "",
+    "description": "Hello, I'm GMFTBY, don't ask me the meaning of 'GMFTBY'. I'm a graduate student of Beijing institute of technology. Recently, I focus on the Dialog systems."
+  },
+  {
+    "name": "Heng-Da Xu",
+    "photo": "xuhengda.jpg",
+    "email": "dadamrxx@gmail.com",
+    "github": "ttps://github.com/DaDaMrX",
+    "homepage": "https://dadamrx.github.io",
+    "description": "Hello, I am Heng-Da Xu. I am a graduate student now in Beijing Institute of Technology, majoring Computer Science. My interest in general lies in text generating and dialogue systems."
+  },
+  {
+    "name": "Chengxin Xin",
+    "photo": "xinchengxin.jpg",
+    "email": "xin.chengxin@hotmail.com",
+    "github": "https://github.com/fihxc",
+    "homepage": "",
+    "description": "Hello, I'm Chengxin and I am a Ph.D student at Beijing Institute of Technology. My research interest is NLP."
+  }
+]
